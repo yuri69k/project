@@ -1,0 +1,9 @@
+.portfolio {
+    @extend %section;
+}
+
+
+.portfolio__title {
+    @extend %title;
+    @extend %visually-hidden;
+}

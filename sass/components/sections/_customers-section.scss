@@ -1,0 +1,8 @@
+.customers {
+  @extend %section;
+}
+
+.customers__title {
+  @extend %title;
+  margin-bottom: 30px;
+}
